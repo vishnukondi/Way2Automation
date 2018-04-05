@@ -88,6 +88,7 @@ public class CommonFunctionality {
 			driver.navigate().refresh();
 			WebElement draggable = driver.findElement(By.xpath(locatorValue));
 	//you can remove it...................
+			//..............
 			draggable.click();
 		
 			

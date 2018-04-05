@@ -61,6 +61,7 @@ public class DriverScript {
 					if(Object_Name.equalsIgnoreCase("staleElementExceptionHandler")) {
 						CommonFunctionality.staleElementExceptionHandler(driver, Locator_Type, Locator_Value);
 					}
+					//changs to secind
 				}
 			}
 		}
