@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-04-04T10:31:40Z" name="Default suite" finished-at="2018-04-04T10:33:21Z" duration-ms="100275">
+  <suite started-at="2018-04-06T04:46:12Z" name="Default suite" finished-at="2018-04-06T04:50:16Z" duration-ms="243441">
     <groups>
     </groups>
-    <test started-at="2018-04-04T10:31:40Z" name="Default test" finished-at="2018-04-04T10:33:21Z" duration-ms="100275">
+    <test started-at="2018-04-06T04:46:12Z" name="Default test" finished-at="2018-04-06T04:50:16Z" duration-ms="243441">
       <class name="DriverScript.AppTesting">
-        <test-method signature="startAppTest()[pri:0, instance:DriverScript.AppTesting@3f56875e]" started-at="2018-04-04T10:31:40Z" name="startAppTest" finished-at="2018-04-04T10:33:21Z" duration-ms="100130" status="PASS">
+        <test-method signature="startAppTest()[pri:0, instance:DriverScript.AppTesting@3f56875e]" started-at="2018-04-06T04:46:12Z" name="startAppTest" finished-at="2018-04-06T04:50:15Z" duration-ms="243306" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startAppTest -->
