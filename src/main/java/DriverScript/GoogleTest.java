@@ -16,7 +16,7 @@ public class GoogleTest implements Comparator {
 
 	String[] names = { "vishnu", "vardhan", "Kondi", "Testing" };
 	static int[] numbersarray = {1,2,5,3,7,5};
-
+//method to find name
 	public boolean findName(Object nameToSearch) {
 		System.out.println(nameToSearch.getClass().getName());
 		if (nameToSearch instanceof String) {
