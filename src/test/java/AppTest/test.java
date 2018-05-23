@@ -18,7 +18,7 @@ public class test {
 		System.out.println(size);
 		//System.out.println(driver.switchTo().frame(1).getPageSource());
 		System.out.println(driver.getTitle());
-		driver.findElement(By.xpath(".//*[@class='fancybox-inner']/div/form/fieldset[1]/input")).sendKeys("ddd");
+		driver.findElement(By.xpath(".//*[@class='fancybox-inner']/div/form/fieldset[1]/input")).sendKeys("33333");
 		
 	}
 
