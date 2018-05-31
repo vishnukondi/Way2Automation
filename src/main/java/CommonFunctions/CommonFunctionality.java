@@ -101,13 +101,13 @@ public class CommonFunctionality {
 		driver.quit();
 	}
 
-	public void registrationTestValidation(WebDriver driver, String validTitle) {
+	/*public void registrationTestValidation(WebDriver driver, String validTitle) {
 
 		String actula_title = driver.getTitle();
 		String expected_title = validTitle;
 		Assert.assertEquals(actula_title, expected_title);
 
-	}
+	}*/
 
 	public static void dropDown(WebDriver driver, String locatorType, String locatorValue, String data) {
 
