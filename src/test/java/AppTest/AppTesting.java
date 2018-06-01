@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import DriverScript.DriverScript;
 
-public class AppTesting {
+public class AppTest {
 	
 	@Test
 	public void startAppTest() throws Throwable {
