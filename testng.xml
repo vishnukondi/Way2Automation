@@ -2,7 +2,7 @@
 <suite name="AutomationSuite" parallel="false">
   <test name="AutomationTest">
     <classes>
-      <class name="AppTest.startAppTest"/>
+      <class name="AppTest.AppTest"/>
       </classes>
   </test>
 </suite>
